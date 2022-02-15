@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="mystyle" href="mystyle.css">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=P, initial-scale=1.0">
+    <title>Jonans site</title>
+    <h1>MY EXPERIENCE IN CODE PLATEAU</hi>
+    <p>It has really been a wonderful experience, being a part of this program; code Plateau 3.0. </b>indeed it's a rear privillege given to me and i promise to make good use of this oppurtunity to contribute my quoter inthe tech industry.</p>
+    <h2>WHAT I DO OUTSIDE CODE</h2>
+<p>i do my research work and my routine house chores.</p>
+
+</head>
+<body>
+    <img src="/Assignment1/wyongk.jpg" alt="my pix" width="200" height="80">
+    <style>
+        body {
+          background-image: url('/Assignment1/wyongk.jpg');
+        }
+        </style> 
+</body>  
+</body>
+</html>
